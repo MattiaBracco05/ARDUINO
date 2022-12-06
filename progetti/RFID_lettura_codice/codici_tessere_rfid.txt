@@ -1,0 +1,3 @@
+tessera rfid "tonda" 298B52A252
+tessera rfid "rettangolo" 69F19B999A
+nfc Samsung A8 020000
