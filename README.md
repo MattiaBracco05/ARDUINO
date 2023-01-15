@@ -1,2 +1,2 @@
 # ARDUINO
-Questo reposity contiene i progetti Arduino
+Questo repository contiene i progetti Arduino
